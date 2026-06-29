@@ -13,7 +13,7 @@ public class largestelement{
         return largest;
     }
     public static void main(String[] args){
-        int arr[]={2,5,7,0,3,6,8,1};
+        int[] arr={2,5,7,0,3,6,8,1};
         System.out.println(largest(arr));
     }
 }
